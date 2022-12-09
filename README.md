@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Inioluwa Adesina
-- 👀 I’m interested in app development.
-- 🌱 I’m currently learning python and java.
-- 💞️ I’m looking to collaborate on app development.
+- 👀 I’m interested in app and web development.
+- 🌱 I’m currently learning HTML5 and CSS3.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 You can reach me at oludarekehinde4@gmail.com
 
 <!---
